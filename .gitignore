@@ -1,0 +1,19 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Pytest cache
+.pytest_cache/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore virtual environment directories
+venv/
+.venv/
+
+# General system or editor-specific files
+.DS_Store
+*.swp
+*.swo
+/ex.py
